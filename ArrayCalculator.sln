@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayCalculator", "ArrayCalculator\ArrayCalculator.csproj", "{ABA33215-20EF-4FE9-8D47-BDC7BBCDC2D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "caculator test", "caculaor test\caculator test.csproj", "{AF8C9B6C-B0CD-42EA-B17B-D936908A1522}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABA33215-20EF-4FE9-8D47-BDC7BBCDC2D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA33215-20EF-4FE9-8D47-BDC7BBCDC2D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA33215-20EF-4FE9-8D47-BDC7BBCDC2D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA33215-20EF-4FE9-8D47-BDC7BBCDC2D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF8C9B6C-B0CD-42EA-B17B-D936908A1522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF8C9B6C-B0CD-42EA-B17B-D936908A1522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF8C9B6C-B0CD-42EA-B17B-D936908A1522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF8C9B6C-B0CD-42EA-B17B-D936908A1522}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78FCC0AA-590B-49D3-BAEF-54B2BC2B68E9}
+	EndGlobalSection
+EndGlobal
