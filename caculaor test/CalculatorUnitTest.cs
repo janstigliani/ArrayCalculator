@@ -89,7 +89,7 @@ namespace caculaor_test
             return new List<Object[]>
             {
                 new Object[] { "1 5 3", 5 },
-                new Object[] { "1,5 5,2 3,3", 3.3 }
+                new Object[] { "1,5 5,2 3,3", 5.2 }
             };
         }
     }
